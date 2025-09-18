@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-I group-title="Powered By Sabit" tvg
+#EXTINF:-1 group-title="Powered By Sabit" tvg
 -logo="https://i.imgur.com/rTH9cWg.png",Sabit Hasan
 Tv
 https://i.imgur.com/KustFYI.MP4
