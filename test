@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Test Channel" tvg-logo="https://i.imgur.com/rTH9cWg.png",T Sports
 http://103.73.107.122:3255/TSportsHD/index.m3u8
 #EXTINF:-2 group-title="News" tvg-logo="https://i.imgur.com/rTH9cWg.png",Somoy TV
-https://ythls-v2.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-3 group-title="Cartoon" tvg-logo="https://i.imgur.com/rTH9cWg.png",Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-3 group-title="Cartoon" tvg-logo="https://i.imgur.com/rTH9cWg.png",Cartoon Network
