@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Powered By Sabit Hasan" tvg-logo="https://i.imgur.com/rTH9cWg.png",Sony Sports
-https://dish.slivcdn.com/hls/live/2011739/TEN1SD/master_3500.m3u8
+#EXTINF:-1 group-title="Powered By Sabit Hasan" tvg-logo="https://i.imgur.com/rTH9cWg.png",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Powered By Sabit Hasan" tvg-logo="https://i.imgur.com/rTH9cWg.png",Test
-http://nocable.cc:8080/live/Wdgv08/369436/159966.ts
+http://nocable.cc:8080/live/Wdgv08/369436/159966.m3u8
